@@ -92,4 +92,6 @@ Therefore, make sure everything is committed. Then, go to the main branch using 
 
 **IMPORTANT**: There is also a nice merging GUI on github and gitlab. Just open your projects github page and click on pull requests. Now, you can create a new *pull request* which shows your changes nicely. On gitlab, you can do the same by creating a new *merge request*. These two mean exactly the same. You can also assign team members to your merge requests, so they can review your code and merge it afterwards. 
 
+## End
 This completes the git tutorial. Make sure to always work on your own branch and then merge into the master branch, this makes collaboration way easier.
+There are some more git commands, especially for reverting your changes and undoing things. Please use these commands very carefully, since you can easily destroy your work by typing the wrong command. If you are not sure what you are doing, please ask a more experienced TUM.ai member for help :)
