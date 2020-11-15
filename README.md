@@ -1,5 +1,7 @@
 # TUM.ai Onboarding - Tech Setup
 
+![Image](other/TUMai_logo.png "TUM.ai Logo")
+
 Hello and welcome at TUM.ai. This short tutorial gives an introduction into the technologies that will be used often at TUM.ai.
 If you have already worked on software projects, you might already know most of these technologies. Then fell free to skip the tutorial or parts of it.
 
@@ -27,6 +29,10 @@ You can jump to the tutorials here:
 **venv**:  
 [Venv Linux](3-venv/VENV-ONBOARDING-LIN.md) |
 [Conda Env Windows](3-venv/VENV-ONBOARDING-WIN.md)
+
+**packages**:  
+[Package Linux](4-packages/PACKAGES-ONBOARDING-LIN.md) |
+[Packages Windows](4-packages/PACKAGES-ONBOARDING-WIN.md)
   
   
 This tutorial was written by *Jakob Kruse, Founder at TUM.ai*.  

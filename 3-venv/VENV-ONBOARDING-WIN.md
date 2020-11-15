@@ -28,7 +28,7 @@ After clicking *OK*, the new environment will be created.
 
 After creating the environment, make sure to close all PyCharm Terminal and Python Console windows in the bottom of PyCharm, since these will still be using the old interpreter.
 When opening a new terminal window, on the left of the path, the name of the venv should be written. It should look similar to that:  
-`(tech-tutorial) /usr/your/path/tech-tutorial>`
+`(tech-tutorial) C:\your\path\tech-tutorial>`
 
 **Terminal**  
 Create the virtualenv using 
