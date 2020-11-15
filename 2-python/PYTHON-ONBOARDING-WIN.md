@@ -1,4 +1,5 @@
 # Python3
+![Image](../other/python-image.png "Python Logo")  
 Python3 is the programming language which will be used in most of TUM.ai's projects.
 
 ## Installation
@@ -11,6 +12,7 @@ This is an option which the installer should provide, so you only need to check 
 the terminal should print your python version. You can exit python by typing `quit()`.
 
 ## IDE installation
+![Image](../other/pycharm.png "Pycharm Logo")  
 As an IDE, I would recommend using PyCharm by JetBrains. It is a great, easy-to-use and very powerful development environment. It also has built-in support for Anaconda and Git.
 As a student, you can get the Professional version for free by applying under this link:
 https://www.jetbrains.com/community/education/#students  

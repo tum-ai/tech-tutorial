@@ -1,4 +1,5 @@
 # Python3 Jupyter Notebooks
+![Image](../other/jupyter.png "Jupyter Logo")   
 Jupyter Notebooks are great for showcasing your code and presenting your data in plots.  
 Jupyter Notebooks are special python files, which are opened in a browser. The code is then split into cells, which can be run separately.
 
@@ -13,7 +14,7 @@ Then, click on *Home* and install the *Jupyter Notebook* application in the envi
 After activating the correct environment, type  
 `pip install notebook`.
   
-**TODO**: Install jupyter notebook in your environment.
+**TASK**: Install jupyter notebook in your environment.
 
 ## Starting
 **Anaconda**:  
@@ -25,14 +26,14 @@ After activating the correct environment, type
 
 After starting jupyter notebook, you will see a menu with folders in your browser.
 
-**TODO**: Start jupyter notebook, then go to the tech-tutorial project folder, then to 5-jupyter and open the file *JupyterExample.ipynb* .
+**TASK**: Start jupyter notebook, then go to the tech-tutorial project folder, then to 5-jupyter and open the file *JupyterExample.ipynb* .
 
 ## Usage
 The notebook which you have opened now, should be pretty self-explanatory. It contains Python Code in cells, which you can run separately.  
 This means, that you can run cells again if there was an error without having to run the previous code again, too.  
 You can run a cell by pressing `Shift + Enter` or by pressing the run button in the top of the page. You can start from the beginning again by pressing `Kernel > Restart and Clear Output`.
   
-**TODO**: Go through the provided jupyter notebook and train your first neural network.
+**TASK**: Go through the provided jupyter notebook and train your first neural network.
 
 ## End
 This concludes the TUM.ai tech introduction. You should now be able to setup a toolchain for a software development project in python.

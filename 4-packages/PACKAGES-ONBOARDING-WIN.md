@@ -23,15 +23,15 @@ into the terminal. If you have Anaconda, you can also type
 Both commands should install the package correctly, the difference is that conda install performs additional checks after installing (compatibility with other packages etc.).  
 NOTE: Some packages can only be installed via pip.  
 
-**TODO**: Install the packages `numpy` and `matplotlib`
+**TASK**: Install the packages `numpy` and `matplotlib`
 
 ### requirements.txt
 To make collaboration on a project easier, it is common practice to write down all the packages you are using in a requirements.txt file which is located in the root of the project.  
-**TODO**: Take a look at the `requirements.txt` file.  
+**TASK**: Take a look at the `requirements.txt` file.  
   
 You can also automatically install all packages in the requirements.rxt file by typing  
 `pip install -r requirements.txt`.  
-**TODO**: Install all packages in the requirements.txt file.
+**TASK**: Install all packages in the requirements.txt file.
 
 ## Importing packages into your code
 Importing packages into your Python code is done via the `import` keyword.
@@ -43,7 +43,7 @@ Imagine that we want to use the function numpy.zeros((3,3)) that creates a 3x3 m
   
 This means that the way you import the package also influences the way you can use it.
   
-**TODO**: Take a look at and run the python file `4-packages/packages.py`. Try to understand what is happening in the file and especially understand where and how the packages are imported.
+**TASK**: Take a look at and run the python file `4-packages/packages.py`. Try to understand what is happening in the file and especially understand where and how the packages are imported.
 
 ## Package Overview
 An overview with lots of great and powerful packages can be found under   

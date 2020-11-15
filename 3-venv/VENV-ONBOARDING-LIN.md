@@ -35,6 +35,7 @@ Create the virtualenv using
 You now need to activate the venv using 
 `source venv/bin/activate`
 
+**TASK**: Setup and activate a virtual environment for the tech tutorial project.
 
 ## End
 You have now created a new virtual environment for your python project. In the next part, we will install and use some packages in this environment.

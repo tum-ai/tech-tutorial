@@ -1,5 +1,9 @@
 # Python3
+
+![Image](../other/python-image.png "Python Logo")
+
 Python3 is the programming language which will be used in most of TUM.ai's projects.
+
 
 ## Installation
 You can install python by typing  
@@ -8,6 +12,7 @@ into the terminal.
 **TASK**: Install python3
 
 ## IDE installation
+![Image](../other/pycharm.png "Pycharm Logo")  
 As an IDE, I would recommend using PyCharm by JetBrains. It is a great, easy-to-use and very powerful development environment.
 As a student, you can get the Professional version for free by applying under this link:
 https://www.jetbrains.com/community/education/#students  

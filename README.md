@@ -5,7 +5,7 @@
 Hello and welcome at TUM.ai. This short tutorial gives an introduction into the technologies that will be used often at TUM.ai.
 If you have already worked on software projects, you might already know most of these technologies. Then fell free to skip the tutorial or parts of it.
 
-This tutorial is made for Linux and Windows, the MAC installation should be very similar to the Linux one.
+This tutorial is made for Linux and Windows, the Mac installation should be very similar to the Linux one.
 
 The technologies included in this tutorial are:
 1. Git
@@ -33,6 +33,10 @@ You can jump to the tutorials here:
 **packages**:  
 [Package Linux](4-packages/PACKAGES-ONBOARDING-LIN.md) |
 [Packages Windows](4-packages/PACKAGES-ONBOARDING-WIN.md)
+
+**jupyter notebook**:  
+[Jupyter Linux](5-jupyter/JUPYTER-ONBOARDING-LIN.md) |
+[Jupyter Windows](5-jupyter/JUPYTER-ONBOARDING-WIN.md)
   
   
 This tutorial was written by *Jakob Kruse, Founder at TUM.ai*.  

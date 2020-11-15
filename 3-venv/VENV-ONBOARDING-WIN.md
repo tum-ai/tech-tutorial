@@ -24,7 +24,7 @@ For Windows, I recommend to use conda environments.
 In PyCharm, goto `File > Settings > Project > Project Interpreter`.  
 Now, select the gear button and *'Add'* in the top right corner to add a new interpreter.  
 Now, select *Conda Environment* on the left and create a new environment. You can select your desired python version.  
-After clicking *OK*, the new environment will be created.  
+After clicking *OK*, the new environment will be created and activated.  
 
 After creating the environment, make sure to close all PyCharm Terminal and Python Console windows in the bottom of PyCharm, since these will still be using the old interpreter.
 When opening a new terminal window, on the left of the path, the name of the venv should be written. It should look similar to that:  
@@ -36,6 +36,7 @@ Create the virtualenv using
 You now need to activate the venv using 
 `source venv/bin/activate`
 
+**TASK**: Setup and activate a virtual environment for the tech tutorial project.
 
 ## End
 You have now created a new virtual environment for your python project. In the next part, we will install and use some packages in this environment.
