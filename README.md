@@ -3,7 +3,7 @@
 ![Image](other/TUMai_logo.png "TUM.ai Logo")
 
 Hello and welcome at TUM.ai. This short tutorial gives an introduction into the technologies that will be used often at TUM.ai.
-If you have already worked on software projects, you might already know most of these technologies. Then fell free to skip the tutorial or parts of it.
+If you have already worked on software projects, you might already know most of these technologies. Then feel free to skip the tutorial or parts of it.
 
 This tutorial is made for Linux and Windows, the Mac installation should be very similar to the Linux one.
 
@@ -16,20 +16,21 @@ The technologies included in this tutorial are:
 
 Throughout this tutorial, you will see some **TASK**s. These tasks should be completed for this tutorial.  
 If there are any questions, please use our Slack channel or the Whatsapp Group.  
+  
+The first tutorials are about setting up the basic workflow an learning how to do software development in a group of people.  
 
-The tutorials about training an AI model, showcase a standard procedure of creating and training AI models. 
-There are meant to allow you to get your hands dirty and to give you a basic practical understanding of 
-what "learning" actually means.
+The last tutorial goes one step further. This tutorial will showcase a standard procedure of creating and training AI models. 
+It is meant to allow you to get your hands dirty and start experimenting with AI.
 <br>
-Also, we will showcase that for the three main Machine Learning Frameworks - for now we have covered the first two.  
+We will showcase that for the three main Machine Learning Frameworks - for now we have covered the first two.  
 * [PyTorch](https://pytorch.org/)
 * [Keras](https://keras.io/)
 * [TensorFlow](https://www.tensorflow.org/)
 
-One important thing to understand is what these libraries actually do. 
-The main purpose, obviously, of these is to allow developers, researches to create, train and test AI models.
+This tutorial will not cover the mathematical foundations of AI, but one important thing to understand is what these libraries actually do. 
+Their main purpose, obviously, is to allow developers, researches to create, train and test AI models.
 <br>
-However, the main feature is the so-called "Autograd" functionality. That means the main power of these frameworks is 
+An important feature is the so-called "Autograd" functionality. That means the main power of these frameworks is 
 that they automate a very big part of the training process - namely the computation of gradients. 
 As you'll learn or maybe already know, gradients are at the core of Machine Learning - they need to be calculated to 
 actually do the learning (i.e. change the model parameters based on an error).
