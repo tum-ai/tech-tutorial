@@ -25,6 +25,7 @@ Also, we will showcase that for the three main Machine Learning Frameworks - for
 * [PyTorch](https://pytorch.org/)
 * [Keras](https://keras.io/)
 * [TensorFlow](https://www.tensorflow.org/)
+
 One important thing to understand is what these libraries actually do. 
 The main purpose, obviously, of these is to allow developers, researches to create, train and test AI models.
 <br>
@@ -36,6 +37,7 @@ All three programs provide different ways of using this functionality, but ultim
 do the complete calculation of the gradients for you. 
 <br><br>
 Don't panic if this information doesn't tell you anything, do the tutorials, read some information of our tutorial list and keep on coming back to this tutorial section. Alternatively, just ask in the #ai_beginners channel. 
+<br>
   
 You can jump to the tutorials here:  
 **git**:  
