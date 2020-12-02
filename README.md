@@ -16,6 +16,26 @@ The technologies included in this tutorial are:
 
 Throughout this tutorial, you will see some **TASK**s. These tasks should be completed for this tutorial.  
 If there are any questions, please use our Slack channel or the Whatsapp Group.  
+
+The tutorials about training an AI model, showcase a standard procedure of creating and training AI models. 
+There are meant to allow you to get your hands dirty and to give you a basic practical understanding of 
+what "learning" actually means.
+<br>
+Also, we will showcase that for the three main Machine Learning Frameworks - for now we have covered the first two.  
+* [PyTorch](https://pytorch.org/)
+* [Keras](https://keras.io/)
+* [TensorFlow](https://www.tensorflow.org/)
+One important thing to understand is what these libraries actually do. 
+The main purpose, obviously, of these is to allow developers, researches to create, train and test AI models.
+<br>
+However, the main feature is the so-called "Autograd" functionality. That means the main power of these frameworks is 
+that they automate a very big part of the training process - namely the computation of gradients. 
+As you'll learn or maybe already know, gradients are at the core of Machine Learning - they need to be calculated to 
+actually do the learning (i.e. change the model parameters based on an error).
+All three programs provide different ways of using this functionality, but ultimately they are so powerful because they 
+do the complete calculation of the gradients for you. 
+<br><br>
+Don't panic if this information doesn't tell you anything, do the tutorials, read some information of our tutorial list and keep on coming back to this tutorial section. Alternatively, just ask in the #ai_beginners channel. 
   
 You can jump to the tutorials here:  
 **git**:  
